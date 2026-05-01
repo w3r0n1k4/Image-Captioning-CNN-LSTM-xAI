@@ -1,4 +1,4 @@
-# Image-Captioning-CNN-LSTM-xAI
+# Image Captioning System with CNN–LSTM and Explainable AI
 
 This project implements an image captioning system (a model that automatically generates a description for a given image), by combining:
 - A Convolutional Neural Network (CNN) for visual feature extraction,
